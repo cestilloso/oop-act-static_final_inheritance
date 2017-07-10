@@ -1,0 +1,1 @@
+# oop-act-static_final_inheritance
